@@ -110,8 +110,7 @@ blah blah blah
 
 
 
-
-# [Section 2](#section2)
+# [Section 2](#section-2)
 
 
 - another blah
