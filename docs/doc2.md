@@ -111,7 +111,7 @@ blah blah blah
 
 
 
-# [Section 2](./doc2.md#section2)
+# [Section 2](#section2)
 
 
 - another blah
