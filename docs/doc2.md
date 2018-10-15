@@ -1,6 +1,6 @@
 # Blah Section
 
-blah blah blah
+blah blah blah in [Section 2](#section-2)
 
 - blah
 - blah
