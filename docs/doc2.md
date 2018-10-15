@@ -1,6 +1,6 @@
 # Blah Section
 
-blah blah blah in [Section 2](#section-2) and [Section 3](#section-3)
+blah blah blah in [Section 2](#section-2) and [Section 3](#connect-method)
 
 - blah
 - blah
@@ -195,7 +195,7 @@ blah blah blah in [Section 2](#section-2) and [Section 3](#section-3)
 - blah
 
 
-## [Section 3](#section-3)
+## [Section 3](#connect-method)
 
 
 - another blah
