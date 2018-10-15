@@ -195,7 +195,7 @@ blah blah blah in [Section 2](#section-2) and [Section 3](#connect-method)
 - blah
 
 
-## [Section 3](#connect-method)
+## [Connect Method](#connect-method)
 
 
 - another blah
