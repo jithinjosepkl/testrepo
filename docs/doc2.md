@@ -1,6 +1,6 @@
 # Blah Section
 
-blah blah blah in [Section 2](#section-2) and [ND2Connector::Bind](#ND2Connector::Bind)
+blah blah blah in [Section 2](#section-2) and [ND2Connector::Bind](#ND2Connector--Bind)
 
 - blah
 - blah
@@ -195,7 +195,7 @@ blah blah blah in [Section 2](#section-2) and [ND2Connector::Bind](#ND2Connector
 - blah
 
 
-## [ND2Connector::Bind](ND2Connector::Bind)
+## [ND2Connector::Bind](ND2Connector--Bind)
 
 
 - another blah
